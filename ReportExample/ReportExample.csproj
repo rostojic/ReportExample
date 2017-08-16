@@ -75,6 +75,7 @@
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
     <EmbeddedResource Include="Report1.rdlc" />
+    <None Include="CDBaza\CdBaza.bak" />
     <None Include="CDDataSet.xsc">
       <DependentUpon>CDDataSet.xsd</DependentUpon>
     </None>
